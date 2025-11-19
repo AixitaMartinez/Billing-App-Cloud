@@ -89,7 +89,7 @@ Configurar variables de entorno (API keys, URLs, etc.).
 
 Ejecutar pipeline de CI/CD para despliegue automático.
 
-📊 Reportes
+### Reportes 📊
 
 Billing App Cloud genera reportes automáticos:
 
@@ -104,5 +104,6 @@ Clientes frecuentes
 Autor
 
 Aixa Martinez – Desarrollador 
+
 
 Equipo de Desarrollo – Diseño, arquitectura y QA
