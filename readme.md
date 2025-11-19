@@ -22,7 +22,7 @@ seguridad de la información.
 * CSS3
 * JavaScript (ES6+)
 * Framework: **React** / **Vue.js** (dependiendo del proyecto)
-* 
+  
 ### Backend
 
 * Node.js (Express) o cualquier framework equivalente
@@ -101,9 +101,10 @@ Estado de facturas
 
 Clientes frecuentes
 
-Autor
+**Autor**
 
 Aixa Martinez – Desarrollador 
 
 
 Equipo de Desarrollo – Diseño, arquitectura y QA
+
